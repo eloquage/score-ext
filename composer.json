@@ -1,0 +1,17 @@
+{
+    "name": "eloquage/score-ext",
+    "description": "Optional PIE-compatible TypePHP native extension for eloquage/score.",
+    "type": "php-ext",
+    "license": "MIT",
+    "require": {
+        "php": "^8.3"
+    },
+    "php-ext": {
+        "extension-name": "eloquage_score"
+    },
+    "homepage": "https://github.com/eloquage/score-ext",
+    "support": {
+        "source": "https://github.com/eloquage/score-ext"
+    }
+}
+
